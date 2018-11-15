@@ -1,0 +1,2 @@
+# LazyUiautomator
+uiautomator测试源码修改，基于Xpath的高效定位
